@@ -13,30 +13,30 @@
     The optional bad-dump repair is an observable board-side adapter.
   -->
   <rom index="0" zip="ogonsiro.zip" md5="none">
-    <part name="qb0_5" crc="25b19efb" />
-    <part name="qb0_4" crc="347ec794" />
-    <part name="qb0_1" crc="040c9839" />
+    <part name="qb0-5" crc="25b19efb" />
+    <part name="qb0-4" crc="347ec794" />
+    <part name="qb0-1" crc="040c9839" />
     <part name="qb0_3" crc="d6a342e7" />
-    <part name="qb0_17" crc="e78be010" />
-    <part name="qb0_20" crc="15916eda" />
-    <part name="qb0_19" crc="79caa7ed" />
-    <part name="qb0_18" crc="e9591260" />
-    <part name="qc0_15" crc="a7efa340" />
-    <part name="qb0_12" crc="0585d9ac" />
-    <part name="qb0_13" crc="a6bb797b" />
-    <part name="qb0_14" crc="85b71211" />
-    <part name="qc1_6" crc="651e6e44" />
-    <part name="qc2_7" crc="c992c4f7" />
-    <part name="qc0_8" crc="1c7ffdad" />
-    <part name="qc1_9" crc="01043e03" />
-    <part name="qc1_10" crc="364cdb58" />
-    <part name="qc2_11" crc="c9fecfff" />
+    <part name="qb0-17" crc="e78be010" />
+    <part name="qb0-20" crc="15916eda" />
+    <part name="qb0-19" crc="79caa7ed" />
+    <part name="qb0-18" crc="e9591260" />
+    <part name="qc0-15" crc="a7efa340" />
+    <part name="qb0-12" crc="0585d9ac" />
+    <part name="qb0-13" crc="a6bb797b" />
+    <part name="qb0-14" crc="85b71211" />
+    <part name="qc1-6" crc="651e6e44" />
+    <part name="qc2-7" crc="c992c4f7" />
+    <part name="qc0-8" crc="1c7ffdad" />
+    <part name="qc1-9" crc="01043e03" />
+    <part name="qc1-10" crc="364cdb58" />
+    <part name="qc2-11" crc="c9fecfff" />
     <part name="q3.2b" crc="6a7c3c60" />
     <part name="q4.5s" crc="e325808e" />
     <part name="aq_002.9b" crc="b30d225f" />
     <part name="aq_003.xx" crc="1d02cd5f" />
     <part name="aq_006.3a" crc="3c5ca4c6" />
-    <part name="aq_007.6c" crc="f19af04d" />
+    <part name="qb0_3" crc="d6a342e7" />
   </rom>
 
   <nvram index="2" size="2048" />
