@@ -35,8 +35,8 @@
     <part name="q4.5s" crc="e325808e" />
     <part name="aq_002.9b" crc="b30d225f" />
     <part name="aq_003.xx" crc="1d02cd5f" />
-    <part name="aq_006.3a" crc="3c5ca4c6" />
-    <part name="qb0_3" crc="d6a342e7" />
+    <part name="qb0_6" crc="3c5ca4c6" />
+    <part name="qb0_7" crc="f19af04d" />
   </rom>
 
   <nvram index="2" size="2048" />
