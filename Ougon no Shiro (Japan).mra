@@ -21,7 +21,6 @@
     <part name="qb0-20" crc="15916eda" />
     <part name="qb0-19" crc="79caa7ed" />
     <part name="qb0-18" crc="e9591260" />
-    <part name="qb0_15" crc="a7efa340" />
     <part name="qb0-12" crc="0585d9ac" />
     <part name="qb0-13" crc="a6bb797b" />
     <part name="qb0-14" crc="85b71211" />
@@ -31,8 +30,7 @@
     <part name="qb0_9" crc="01043e03" />
     <part name="qb0_10" crc="364cdb58" />
     <part name="qb0_11" crc="c9fecfff" />
-    <part name="q3.2b" crc="6a7c3c60" />
-    <part name="q4.5s" crc="e325808e" />
+    <part name="qb0_15" crc="a7efa340" />
     <part name="q3.2b" crc="6a7c3c60" />
     <part name="q4.5s" crc="e325808e" />
   </rom>
